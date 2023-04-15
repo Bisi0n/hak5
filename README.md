@@ -9,4 +9,7 @@ USB Rubber Ducky simple scripts
 4.Insert the USB device into the target computer and let the script(s) run their magic. <br />
 
 ### Note
-It's worth noting that keystroke injection with a USB Rubber Ducky is most effective on Windows operating systems, as the keystrokes are designed with Windows in mind. If you plan on using this technique on a different operating system, be sure to adjust your script accordingly.
+It's worth noting that keystroke injection with a USB Rubber Ducky is most effective on Windows operating systems, as the keystrokes are designed with Windows in mind. <br /> 
+If you plan on using this technique on a different operating system, be sure to adjust your script accordingly.
+* Another important consideration is that keyboard layout differences between systems may affect the success of certain keystrokes. <br />
+Make sure to take this into account when writing and testing your scripts.
