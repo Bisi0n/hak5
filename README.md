@@ -1,2 +1,2 @@
-# KEYSTROKE INJECTION
+# Keystroke Injection
 USB Rubber Ducky simple scripts
